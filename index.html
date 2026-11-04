@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Usuário</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fa-brands fa-instagram"></i>
+            </div>
+            <nav class="nav-links">
+                <a href="#" class="active"><i class="fa-solid fa-house"></i> <span>Início</span></a>
+                <a href="#"><i class="fa-solid fa-magnifying-glass"></i> <span>Pesquisar</span></a>
+                <a href="#"><i class="fa-regular fa-compass"></i> <span>Explorar</span></a>
+                <a href="#"><i class="fa-solid fa-clapperboard"></i> <span>Reels</span></a>
+                <a href="#"><i class="fa-regular fa-paper-plane"></i> <span>Mensagens</span></a>
+                <a href="#"><i class="fa-regular fa-heart"></i> <span>Notificações</span></a>
+                <a href="#"><i class="fa-regular fa-square-plus"></i> <span>Criar</span></a>
+                <a href="#" class="profile-link"><img id="sidebar-avatar" src="" alt="Perfil"> <span>Perfil</span></a>
+            </nav>
+            <div class="sidebar-footer">
+                <button id="theme-toggle" class="theme-btn">
+                    <i class="fa-solid fa-moon"></i> <span>Modo Escuro</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <div class="profile-container">
+                <!-- Header / Info -->
+                <header class="profile-header">
+                    <div class="avatar-container">
+                        <img id="profile-avatar" src="" alt="Foto de Perfil">
+                    </div>
+                    <section class="profile-info">
+                        <div class="profile-title">
+                            <h2 id="profile-username">username</h2>
+                            <button class="btn btn-primary">Seguir</button>
+                            <button class="btn btn-secondary">Mensagem</button>
+                            <button class="btn btn-icon"><i class="fa-solid fa-user-check"></i></button>
+                        </div>
+                        <ul class="profile-stats">
+                            <li><strong id="stat-posts">0</strong> publicações</li>
+                            <li><strong id="stat-followers">0</strong> seguidores</li>
+                            <li><strong id="stat-following">0</strong> seguindo</li>
+                        </ul>
+                        <div class="profile-bio">
+                            <h1 id="profile-display-name">Nome de Exibição</h1>
+                            <p id="profile-bio-text">Biografia do usuário...</p>
+                            <a id="profile-link" href="#" target="_blank" class="bio-link"><i class="fa-solid fa-link"></i> link.com</a>
+                        </div>
+                    </section>
+                </header>
+
+                <!-- Navigation Tabs -->
+                <div class="profile-tabs">
+                    <button class="tab-btn active" data-tab="grid">
+                        <i class="fa-solid fa-border-all"></i> PUBLICAÇÕES
+                    </button>
+
+                    <!-- Switch View Layout Mode -->
+                    <div class="layout-toggle">
+                        <button id="view-grid" class="view-btn active" title="Grade"><i class="fa-solid fa-grip"></i></button>
+                        <button id="view-feed" class="view-btn" title="Feed Corrido"><i class="fa-solid fa-list"></i></button>
+                    </div>
+                </div>
+
+                <!-- Posts Grid Layout -->
+                <div id="posts-grid-container" class="posts-grid">
+                    <!-- Posts dinâmicos inseridos via JavaScript -->
+                </div>
+
+                <!-- Posts Feed Layout (Oculto por padrão) -->
+                <div id="posts-feed-container" class="posts-feed hidden">
+                    <!-- Posts em lista dinâmicos inseridos via JavaScript -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal de Detalhe do Post -->
+    <div id="post-modal" class="modal hidden">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img id="modal-img" src="" alt="Post">
+                </div>
+                <div class="modal-details">
+                    <div class="modal-header">
+                        <img id="modal-avatar" src="" alt="Perfil">
+                        <div class="modal-user-info">
+                            <span id="modal-username" class="username-bold">username</span>
+                            <span id="modal-location" class="location-text">Localização</span>
+                        </div>
+                    </div>
+                    <div class="modal-caption-area">
+                        <p><strong id="modal-caption-username">username</strong> <span id="modal-caption-text">Legenda...</span></p>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="modal-actions">
+                            <button class="action-btn like-btn"><i class="fa-regular fa-heart"></i></button>
+                            <button class="action-btn"><i class="fa-regular fa-comment"></i></button>
+                            <button class="action-btn"><i class="fa-regular fa-paper-plane"></i></button>
+                        </div>
+                        <div class="modal-likes"><strong id="modal-likes-count">0</strong> curtidas</div>
+                        <div id="modal-date" class="modal-date">HÁ X DIAS</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
