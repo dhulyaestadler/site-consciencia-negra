@@ -5,7 +5,7 @@ const PROFILE_DATA = {
     username: "@brasilorigens",
     displayName: "Afro-originários",
     bio: "📸 Capturando momentos pelo mundo 🌍\n☕ Amante de café & tecnologia 💻\n📍 Atualmente em Curitiba, Brasil",
-    avatarUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    avatarUrl: "https://educasc.com.br/wp-content/uploads/2021/11/iStock-936334648-scaled.webp",
     followers: "12.8k",
     following: "482",
     link: "https://meuportfolio.com"
