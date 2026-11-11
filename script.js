@@ -89,111 +89,111 @@ const POSTS_DATA = [
     },
     {
         id: 9,
-        imageUrl: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
-        caption: "Arquitetura moderna e linhas perfeitas 🏛️",
+        imageUrl: "https://cdn.atribunarj.com.br/images/2025/12/04/reinaldo-04-12-2025-11-36-42-p9j3r.webp",
+        caption: "José Reinaldo de Lima, o Reinaldo, é considerado o maior ídolo e artilheiro da história do Clube Atlético Mineiro. Nascido em 1957, o ex-atacante marcou época no futebol brasileiro na década de 1970 e 1980 por sua genialidade técnica e por seu forte posicionamento político.",
         likes: 198,
         commentsCount: 8,
-        location: "Brasília, Brasil",
+        location: "Minas Gerais, Brasil",
         date: "HÁ 3 SEMANAS"
     },
     {
         id: 10,
-        imageUrl: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=80",
-        caption: "Pôr do sol grego 🌅 Um dos visuais mais marcantes que já vi.",
+        imageUrl: "https://iclnoticias.com.br/app/uploads/2024/04/Irenice-Rodrigues-2.jpg",
+        caption: "Irenice Rodrigues foi uma das maiores corredoras brasileiras de meio-fundo (400m e 800m), recordista sul-americana na década de 1960. Mulher negra, de origem pobre e defensora dos direitos dos atletas, ela uniu o alto desempenho esportivo a um forte ativismo político e combate ao racismo, batendo de frente com os dirigentes esportivos da época.",
         likes: 1050,
         commentsCount: 95,
-        location: "Santorini, Grécia",
+        location: "Minas Gerais, Brasil",
         date: "HÁ 3 SEMANAS"
     },
     {
         id: 11,
-        imageUrl: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
-        caption: "Setup de trabalho atualizado! Pronto para novos projetos 💻⚡",
+        imageUrl: "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/garrincha-1962-fifa-e1783281962210.webp?w=419&h=283&crop=0&quality=90",
+        caption: "Garrincha, nascido em 29 de outubro de 1933, foi o maior driblador da história do futebol e o grande símbolo da irreverência brasileira. Ele superou deformidades físicas congênitas para virar um gênio da ponta-direita e a 'Alegria do Povo'. O craque virou o maior ídolo do Botafogo e foi o herói absoluto do bicampeonato mundial do Brasil na Copa de 1962 após a lesão de Pelé. Ao lado do Rei, aliás, ele manteve a marca de nunca perder uma partida pela Seleção Brasileira. Ele faleceu de forma precoce aos 49 anos de idade, vítima de complicações causadas pelo alcoolismo severo. Algo que muitos fãs de futebol não sabem, é que ele possuía ascendência indígena: seu pai era fulni-ô.",
         likes: 845,
         commentsCount: 60,
-        location: "Home Office",
+        location: "Rio de Janeiro, Brasil",
         date: "HÁ 1 MÊS"
     },
     {
         id: 12,
-        imageUrl: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
-        caption: "A névoa matinal cobrindo o vale 🌫️",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4DepYY2H7lKxZsn-raJ_zQrmed-lNOMW6xYm3osPzOOP_3W1x_oOkgH4d&s=10",
+        caption: "Graziela Santos (Yaci), nascida em 1996, é uma arqueira brasileira da etnia Karapanã e a primeira atleta indígena a integrar a Seleção Brasileira de Tiro com Arco. Ela foi descoberta em 2013 em um projeto social no Amazonas e se tornou um dos grandes nomes da modalidade no país. A esportista acumula marcas expressivas no circuito mundial e conquistou duas medalhas de ouro no Grand Prix das Américas de 2024. Atualmente, ela treina intensamente na base da seleção com o objetivo de disputar os Jogos Olímpicos. Ela serve como uma grande referência de representatividade e orgulho para os povos originários.",
         likes: 420,
         commentsCount: 22,
-        location: "Gramado, Brasil",
+        location: "Amazonas, Brasil",
         date: "HÁ 1 MÊS"
     },
     {
         id: 13,
-        imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
-        caption: "Reflexos perfeitos no lago 🏞️ A calma que a natureza traz.",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgJK66yLG5a41J0MSQm0cKTuzkWujHOt6zZl7jCAbhA&s=10",
+        caption: "Zumbi dos Palmares foi um dos principais líderes da resistência negra contra a escravidão no Brasil. Liderou o Quilombo dos Palmares, uma comunidade formada principalmente por pessoas negras que fugiam da escravidão em busca de liberdade. Lutou durante muitos anos contra os ataques dos portugueses para proteger seu povo e sua comunidade. Foi morto em 20 de novembro de 1695 e se tornou um símbolo de resistência, coragem e luta pela liberdade.",
         likes: 670,
         commentsCount: 38,
-        location: "Patagônia",
+        location: "Alagoas, Brasil",
         date: "HÁ 1 MÊS"
     },
     {
         id: 14,
-        imageUrl: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
-        caption: "Música, boa companhia e energia positiva 🎶🎸",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADrvCCdghPlxxF3xxW8qT9zkCBqQwEne0OVbteRqg_AmRuf4udBt8OVTA&s=10",
+        caption: "Erika Hilton (nascida em Franco da Rocha, SP, em 1992) é uma pedagoga, ativista e política brasileira, reconhecida pela defesa dos direitos humanos, das mulheres, da população negra e da comunidade LGBTQIA+. Após atuar como co-deputada estadual na Alesp (2019–2020), tornou-se a primeira mulher trans eleita para a Câmara Municipal de São Paulo em 2020 e, em 2022, uma das primeiras a chegar à Câmara dos Deputados, sendo reeleita em 2026 com cerca de 1,5 milhão de votos. No Congresso Nacional, preside a Comissão de Defesa dos Direitos da Mulher e ganhou destaque como autora da PEC 8/2025, que propõe o fim da escala de trabalho 6x1.",
         likes: 290,
         commentsCount: 17,
-        location: "Estúdio de Som",
-        date: "HÁ 2 MÊSES"
+        location: "São Paulo, Brasil",
+        date: "HÁ 2 MESES"
     },
     {
         id: 15,
-        imageUrl: "https://images.unsplash.com/photo-1476514525535-ce74f45814d0?auto=format&fit=crop&w=800&q=80",
-        caption: "Passeio de barco pelas águas cristalinas ⛵",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKIUhMRPxN0W1ckB5JC2RpekVxyDa1Mg6Bgiu22pm_g&s=10",
+        caption: "Ailton Krenak é um dos maiores líderes indígenas, ambientalistas, filósofos e escritores do Brasil, pertencente à etnia Krenak. Ele alcançou um marco histórico ao se tornar o primeiro indígena eleito para a Academia Brasileira de Letras (ABL), onde tomou posse em abril de 2024 na cadeira nº 5. Nascido em 1953 em Minas Gerais, sua trajetória é marcada pela defesa incansável dos direitos dos povos originários e por uma crítica profunda ao modelo de progresso ocidental.  Protagonizou um dos momentos mais marcantes da história política brasileira ao pintar o rosto com a tinta preta do jenipapo no Congresso Nacional, protestando contra o retrocesso nos direitos indígenas durante a Assembleia Constituinte.",
         likes: 910,
         commentsCount: 71,
-        location: "Arraial do Cabo, Brasil",
-        date: "HÁ 2 MÊSES"
+        location: "Minas Gerais, Brasil",
+        date: "HÁ 2 MESES"
     },
     {
         id: 16,
-        imageUrl: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80",
-        caption: "Aventura no deserto. Vastidão sem fim 🏜️",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUNTFQYJDUqoILgIPYytvW1n-nSWNqFUlsImNvsAzyar4N0BQXz6EqIl7B&s=10",
+        caption: "Txai Suruí é uma ativista indígena brasileira do povo Paiter Suruí, de Rondônia. Desde jovem, participa da luta pela proteção da floresta e dos direitos indígenas. Ficou conhecida internacionalmente em 2021, quando discursou na COP26, na Escócia, denunciando a destruição da Amazônia e as mudanças climáticas. Seu trabalho busca conscientizar as pessoas sobre a importância de preservar a natureza e respeitar os povos indígenas.",
         likes: 540,
         commentsCount: 31,
-        location: "Atacama, Chile",
-        date: "HÁ 2 MÊSES"
+        location: "Rondônia, Brasil",
+        date: "HÁ 2 MESES"
     },
     {
         id: 17,
-        imageUrl: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
-        caption: "Raios de sol atravessando as árvores ☀️🌿",
+        imageUrl: "https://akamai.sscdn.co/gcs/cifra-blog/pt/wp-content/uploads/2022/10/00ea7b7-milton-nascimento.jpg",
+        caption: "Milton Nascimento, carinhosamente conhecido como Bituca, é um dos maiores cantores, compositores e multi-instrumentistas da história da música brasileira. Nascido no Rio de Janeiro em 26 de outubro de 1942 e criado em Três Pontas (Minas Gerais), tornou-se mundialmente aclamado pela extensão única de sua voz e por liderar o movimento Clube da Esquina. DUrante a carreira já venceu o prêmio Grammy cinco vezes",
         likes: 380,
         commentsCount: 20,
-        location: "Jardim Botânico",
-        date: "HÁ 3 MÊSES"
+        location: "Rio de Janeiro, Brasil",
+        date: "HÁ 3 MESES"
     },
     {
         id: 18,
-        imageUrl: "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=800&q=80",
-        caption: "Celebrando conquistas e novos ciclos! 🎉✨",
+        imageUrl: "https://imagens.tasendo.com.br/artistas/173/alcione-large-b8e76e20.jpg",
+        caption: "Alcione Dias Nazareth, amplamente conhecida como Marrom, é uma das maiores cantoras, compositoras e multi-instrumentistas da música brasileira. Nascida em São Luís, no Maranhão, em 21 de novembro de 1947, ela ganhou os títulos de 'Dama do Samba' e 'A Voz do Samba' ao longo de mais de cinco décadas de carreira.",
         likes: 1120,
         commentsCount: 104,
-        location: "Festa de Fim de Ano",
-        date: "HÁ 3 MÊSES"
+        location: "Maranhão, Brasil",
+        date: "HÁ 3 MESES"
     },
     {
         id: 19,
-        imageUrl: "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=800&q=80",
-        caption: "Meu parceiro de todas as horas 🐱💤",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18P93Hv5cjGQL6EAeJx9YtCK4mdG_ei_ctnzg0tvYul_mkpbyd5gI0AFS&s=10",
+        caption: "O Brô MC's é um grupo de rap indígena criado em 2009, em Dourados, Mato Grosso do Sul. Formado por jovens do povo Guarani Kaiowá, o grupo canta em português e guarani. Suas músicas falam sobre a cultura indígena, o preconceito e a luta pelos direitos dos povos originários.  Em 2022, tornaram-se os primeiros artistas indígenas a se apresentar no Rock in Rio a convite do rapper Xamã. Também passaram por grandes eventos como o The Town, o G20, o Prêmio Multishow e o Grammy Latino.",
         likes: 830,
         commentsCount: 49,
-        location: "Em casa",
-        date: "HÁ 4 MÊSES"
+        location: "Mato Grosso do Sul, Brasil",
+        date: "HÁ 4 MESES"
     },
     {
         id: 20,
-        imageUrl: "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=800&q=80",
-        caption: "A força e a beleza da cachoeira 🌊🌿",
+        imageUrl: "https://s2-g1.glbimg.com/nF4Qh2fqd6oMppm2fKmqq1yBQQs=/0x0:1000x582/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/S/VL85YLT2ilnljDM2l9hA/djuena-tikuna-foto-diego-janata.jpg",
+        caption: "Djuena Tikuna (Denizia Araújo Peres, nascida em 1984) é uma das principais cantoras, compositoras e ativistas da música indígena contemporânea no Brasil. Natural da Aldeia Umariaçu II, em Tabatinga (Amazonas), ela pertence ao povo Tikuna (autodenominado Magüta), a maior nação indígena da Amazônia brasileira. Todas as suas composições são interpretadas exclusivamente no idioma Tikuna, língua que ela falou de forma exclusiva até os 10 anos de idade.  Além da carreira musical, Djuena é a primeira jornalista indígena formada no estado do Amazonas e atua também como documentarista e produtora cultural.",
         likes: 760,
         commentsCount: 41,
-        location: "Foz do Iguaçu, Brasil",
-        date: "HÁ 4 MÊSES"
+        location: "Amazonas, Brasil",
+        date: "HÁ 4 MESES"
     }
 ];
 
