@@ -4,7 +4,7 @@
 const PROFILE_DATA = {
     username: "@brasilorigens",
     displayName: "Afro-originários",
-    bio: "📸 Capturando momentos pelo mundo 🌍\n☕ Amante de café & tecnologia 💻\n📍 Atualmente em Curitiba, Brasil",
+    bio: "Espalhando nossa riqueza pelo mundo! ✊🏽✊🏾✊🏿",
     avatarUrl: "https://educasc.com.br/wp-content/uploads/2021/11/iStock-936334648-scaled.webp",
     followers: "12.8k",
     following: "482",
@@ -17,74 +17,74 @@ const PROFILE_DATA = {
 const POSTS_DATA = [
     {
         id: 1,
-        imageUrl: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
-        caption: "Dias inesquecíveis na praia! 🌊☀️ Nada melhor que o barulho do mar para renovar as energias.",
+        imageUrl: "https://primeirosnegros.com/wp-content/uploads/2021/09/machado_de_assis_real.jpg",
+        caption: "Joaquim Maria Machado de Assis (1839-1908) foi um dos maiores escritores brasileiros da história, conhecido mundialmente por suas obras “Memórias Póstumas de Brás Cubas” (1881), “O Alienista” (1882), “Dom Casmurro” (1899) e tantas outras. Machado também participou sendo o primeiro presidente da Academia Brasileira de Letras (ABL), no ano de 1897. Marcou o início do movimento literário “Realismo” ( 1881) com seu romance “Memórias Póstumas de Brás Cubas” que se origina com o protagonista morto.",
         likes: 342,
         commentsCount: 28,
-        location: "Florianópolis, Brasil",
+        location: "Rio de Janeiro, Brasil",
         date: "HÁ 1 DIA"
     },
     {
         id: 2,
-        imageUrl: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
-        caption: "Noite estrelada nas montanhas 🌌 A imensidão do universo sempre impressiona.",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z0gUXatfVILbwRkSb3WGg6tRDsMEE6jjJh8Wt5xIJg&s=10",
+        caption: "Carolina Maria de Jesus (1914-1977) foi catadora de papel, escritora, cantora, compositora e poeta brasileira, uma das primeiras escritoras negras do país. Sua obra mais famosa, “Quarto de Despejo”, além de contar sua dura história, dá voz ao povo periférico que é marginalizado, mostrando a cada página como é trabalhar muito, mas mesmo assim não conseguir o suficiente para comer.",
         likes: 890,
         commentsCount: 64,
-        location: "Serra da Mantiqueira",
+        location: "Minas Gerais, Brasil",
         date: "HÁ 2 DIAS"
     },
     {
         id: 3,
-        imageUrl: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
-        caption: "Aquele café matinal essencial antes de começar o trabalho ☕💻",
+        imageUrl: "https://cdn.agenciamural.org.br/2026/03/25162418/558697307_24166737849671655_749572829875173931_n.jpg",
+        caption: "Itamar Vieira Junior (1979) é um escritor e geógrafo brasileiro. Possui como obra principal o romance Torto Arado que narra a história de duas mulheres negras no interior de Água Negra. Com esta obra, o escritor ressalta a cultura negra e a luta do povo negro após o “fim” da escravidão no Brasil.",
         likes: 215,
         commentsCount: 12,
-        location: "Curitiba, Brasil",
+        location: "Bahia, Brasil",
         date: "HÁ 3 DIAS"
     },
     {
         id: 4,
-        imageUrl: "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?auto=format&fit=crop&w=800&q=80",
-        caption: "Luzes da cidade grande 🌆 O ritmo urbano tem sua própria magia.",
+        imageUrl: "https://www.editoradobrasil.com.br/wp-content/uploads/2020/04/Eliane-Potiguara-Cr%C3%A9dito-Juliana-Lubini.jpg",
+        caption: "Eliane Lima dos Santos (1950), mais conhecida como Eliane Potiguara é uma escritora, professora, ativista e empreendedora brasileira. Conhecida por sua obra “Metade Cara, Metade Máscara”, narra por meio de crônicas, poesia e relatos autobiográficos a violência sofrida pelos povos originários, a identidade e a perspectiva vivida por uma mulher indígena.",
         likes: 512,
         commentsCount: 45,
-        location: "São Paulo, Brasil",
+        location: "Rio de Janeiro, Brasil",
         date: "HÁ 5 DIAS"
     },
     {
         id: 5,
-        imageUrl: "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
-        caption: "Perdido na floresta 🌲 Respira fundo e sente a natureza.",
+        imageUrl: "https://primeirosnegros.com/wp-content/uploads/2013/08/Milton-Santos-Revista-Caliban-787x1024.jpg",
+        caption: "Milton Santos nasceu em 3 de maio de 1926, na Bahia. Foi um importante geógrafo, professor e escritor brasileiro. Ficou conhecido por seus estudos sobre as cidades, a pobreza e a globalização. Em 1994, recebeu o Prêmio Vautrin Lud, um dos mais importantes da Geografia mundial. Faleceu em 2001, deixando grandes contribuições para a educação e a sociedade.",
         likes: 430,
         commentsCount: 19,
-        location: "Parque Nacional",
+        location: "Bahia, Brasil",
         date: "HÁ 1 SEMANA"
     },
     {
         id: 6,
-        imageUrl: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
-        caption: "Jantar especial num lugar incrível 🍝🍷",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPgpPxXrtFrn8oBPqapmz4ofV4_rUkObMK4yKPHDfDfAVIicQFjUQX2w&s=10",
+        caption: "Sônia Guimarães nasceu em São Paulo e é uma importante física brasileira. Em 1989, tornou-se a primeira mulher negra brasileira a conquistar o doutorado em Física. Também foi a primeira professora negra do Instituto Tecnológico de Aeronáutica (ITA). Sua trajetória é marcada pela luta contra o racismo e pela presença das mulheres na ciência.",
         likes: 620,
         commentsCount: 33,
-        location: "Rio de Janeiro, Brasil",
+        location: "São Paulo, Brasil",
         date: "HÁ 1 SEMANA"
     },
     {
         id: 7,
-        imageUrl: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80",
-        caption: "Painel na estrada. O destino importa menos que a jornada 🚘💨",
+        imageUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8GWPgiFKYXfvG2iSoI7vLQxElJMacWKpLecZDGnDQLcLVZIWHlFxuAf4PMgrFyPBhyphenhyphenj0Y4mUNp2Rg9FKDetZVBsHaoFMZvBDFnYbQw5S6V5Uh-l54ikWH4w5iNpizB2q6WQ63dlTbieb/s1600/Francisco+Apurin%25C3%25A3.jpg",
+        caption: "Francisco Apurinã, também conhecido como Ywmuniry, é uma liderança indígena do povo Apurinã, do Amazonas. É pesquisador, antropólogo e defensor dos direitos dos povos indígenas. Dedica seu trabalho à preservação da cultura, dos conhecimentos tradicionais e das terras indígenas, além de atuar em projetos voltados às comunidades originárias.",
         likes: 740,
         commentsCount: 52,
-        location: "Rota 66",
+        location: "Amazonas, Brasil",
         date: "HÁ 2 SEMANAS"
     },
     {
         id: 8,
-        imageUrl: "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?auto=format&fit=crop&w=800&q=80",
-        caption: "Caminhada de domingo 🏔️ Valeu cada passo até o topo!",
+        imageUrl: "https://psol50.org.br/wp-content/uploads/2025/02/img20250219203727362.jpg",
+        caption: "Célia Xakriabá é uma professora, ativista e política indígena do povo Xakriabá, de Minas Gerais. Ficou conhecida por defender os direitos dos povos indígenas, a preservação da natureza e a educação. Em 2022, foi eleita deputada federal por Minas Gerais, tornando-se uma importante representante indígena na política brasileira.",
         likes: 310,
         commentsCount: 14,
-        location: "Pico do Paraná",
+        location: "Minas Gerais, Brasil",
         date: "HÁ 2 SEMANAS"
     },
     {
